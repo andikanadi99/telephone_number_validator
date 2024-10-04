@@ -1,0 +1,23 @@
+body{
+  background-color:#3b3b4f;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  color:white;
+}
+
+.phone{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  background-color:black;
+  padding: 2rem 2rem;
+}
+.inner-phone{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  background-color:grey;
+  padding: 2rem 2rem;
+  margin-bottom: 1rem;
+}
